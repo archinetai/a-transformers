@@ -1,6 +1,8 @@
 
 # A-Transformers
 
+A collection of transformer models, in PyTorch.
+
 ```bash
 pip install a-transformers
 ```
